@@ -1,4 +1,4 @@
-package Homework.Patterns;
+package homework.patterns;
 
 // Классы видов транспорта
 public abstract class TransportUnit implements Transport {

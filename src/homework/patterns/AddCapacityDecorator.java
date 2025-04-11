@@ -1,4 +1,4 @@
-package Homework.Patterns;
+package homework.patterns;
 
 // Декоратор для удвоения грузоподъемности
 public class AddCapacityDecorator implements Transport {

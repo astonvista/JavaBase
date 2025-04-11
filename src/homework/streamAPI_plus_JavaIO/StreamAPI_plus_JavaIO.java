@@ -1,4 +1,4 @@
-package Homework.StreamAPI_plus_JavaIO;
+package homework.streamAPI_plus_JavaIO;
 
 import java.io.File;
 import java.util.Comparator;

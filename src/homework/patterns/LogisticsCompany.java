@@ -1,4 +1,4 @@
-package Homework.Patterns;
+package homework.patterns;
 
 import java.util.Date;
 

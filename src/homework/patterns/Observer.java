@@ -1,4 +1,4 @@
-package Homework.Patterns;
+package homework.patterns;
 
 public interface Observer {
 

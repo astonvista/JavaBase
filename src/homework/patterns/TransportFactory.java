@@ -1,4 +1,4 @@
-package Homework.Patterns;
+package homework.patterns;
 
 // Фабрика для создания транспорта
 public class TransportFactory {
